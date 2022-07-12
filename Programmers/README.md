@@ -6,4 +6,4 @@
 
 ## Javascript
 
-- [Level1](https://github.com/whistleJs/algorithm-zip/Programmers/Javascript/Level1)
+- [Level1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1)
