@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@util/*": [ "./util/*" ]
+    },
+    "typeRoots": ["./node_modules/@types"],
+  }
+}
