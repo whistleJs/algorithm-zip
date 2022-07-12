@@ -15,7 +15,7 @@ const TEST_CASES: TestCase<number, number>[] = [
   }
 ];
 
-describe("소수 찾기", () => {
+describe('소수 찾기', () => {
   TEST_CASES.forEach(({ answer, description, input }) => {
     test(description, () => {
       expect(solution(input)).toEqual(answer);
