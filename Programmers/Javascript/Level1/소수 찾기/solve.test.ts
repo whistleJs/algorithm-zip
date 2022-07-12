@@ -2,7 +2,10 @@ import { TestCase } from '@util/model';
 
 import solution from './solve';
 
-const TEST_CASES: TestCase<number, number>[] = [
+type TestCaseInput = number;
+type TestCaesAnswer = number;
+
+const TEST_CASES: TestCase<TestCaseInput, TestCaesAnswer>[] = [
   {
     input: 10,
     answer: 4,
