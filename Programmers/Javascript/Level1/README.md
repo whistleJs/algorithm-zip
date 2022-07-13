@@ -1,5 +1,9 @@
 ## 풀이 모음
 
+### 2021 KAKAO BLIND RECRUITMENT
+
+- [신규 아이디 추천](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)
+
 ### 2022 KAKAO BLIND RECRUITMENT
 
 - [신고 결과 받기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0)
