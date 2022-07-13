@@ -22,7 +22,7 @@ const TEST_CASES: TestCase<TestCaseInput, TestCaesAnswer>[] = [
     answer: [1, 6],
     description: `
       알아볼 수 없는 번호들이 아래와 같았다면, 1등과 6등에 당첨될 수 있습니다.\n
-      |   당첨 번호   |	 38  |  19  |  20  |  40  |  15  |  25  |       결과       |\n
+      |   당첨 번호   |  38  |  19  |  20  |  40  |  15  |  25  |       결과       |\n
       | 최고 순위 번호 | 0→38 | 0→19 | 0→20 | 0→40 | 0→15 | 0→25 | 6개 번호 일치, 1등 |\n
       | 최저 순위 번호 | 0→21 | 0→22 | 0→23 | 0→24 | 0→26 | 0→27 | 0개 번호 일치, 6등 |\n
     `
@@ -37,7 +37,7 @@ const TEST_CASES: TestCase<TestCaseInput, TestCaesAnswer>[] = [
   }
 ];
 
-describe('신고 결과 받기', () => {
+describe('로또의 최고 순위와 최저 순위', () => {
   TEST_CASES.forEach(({ answer, description, input }) => {
     test(description, () => {
       expect(solution(...input)).toEqual(answer);
