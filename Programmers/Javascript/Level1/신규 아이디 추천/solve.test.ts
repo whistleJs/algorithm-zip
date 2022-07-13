@@ -56,7 +56,7 @@ const TEST_CASES: TestCase<TestCaseInput, TestCaesAnswer>[] = [
   },
   {
     input: 'abcdefghijklmn.p',
-    answer: 'abcdefghijklmna',
+    answer: 'abcdefghijklmn',
     description: `
       [입출력 예 #5]
       1단계 변화 없습니다.\n
