@@ -1,5 +1,9 @@
 ## 풀이 모음
 
+### 2020 카카오 인턴십
+
+- [키패드 누르기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)
+
 ### 2021 카카오 채용연계형 인턴십
 
 - [숫자 문자열과 영단어](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
