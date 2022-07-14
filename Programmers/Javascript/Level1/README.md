@@ -1,5 +1,9 @@
 ## 풀이 모음
 
+### 2019 카카오 개발자 겨울 인턴십
+
+- [크레인 인형뽑기 게임](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
+
 ### 2020 카카오 인턴십
 
 - [키패드 누르기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)
