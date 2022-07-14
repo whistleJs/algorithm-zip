@@ -10,7 +10,7 @@ const TEST_CASES: TestCase<TestCaseInput, TestCaesAnswer>[] = [
     input: '...!@BaT#*..y.abcdefghijklm',
     answer: 'bat.y.abcdefghi',
     description: `
-      [입출력 예 #2]\n
+      [입출력 예 #1]\n
       문제의 예시와 같습니다.
     `
   },
