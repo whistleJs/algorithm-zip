@@ -42,6 +42,10 @@
 
 ## 월간 코드 챌린지
 
+### 월간 코드 챌린지 시즌1
+
+- [내적](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%82%B4%EC%A0%81)
+
 ### 월간 코드 챌린지 시즌2
 
 - [음양 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
