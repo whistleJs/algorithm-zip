@@ -24,6 +24,10 @@
 
 - [로또의 최고 순위와 최저 순위](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)
 
+### 월간 코드 챌린지 시즌3
+
+- [없는 숫자 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
+
 ### 연습 문제
 
 - [소수 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)
