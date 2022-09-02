@@ -62,6 +62,10 @@
 
 ## 기타
 
+### 완전 탐색
+
+- [모의고사](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+
 ### 정렬
 
 - [K번째수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
