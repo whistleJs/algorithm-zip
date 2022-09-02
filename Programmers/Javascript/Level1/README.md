@@ -62,6 +62,10 @@
 
 ## 기타
 
+### 정렬
+
+- [K번째수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
+
 ### 해시
 
 - [완주하지 못한 선수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
