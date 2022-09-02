@@ -1,6 +1,6 @@
 ## 알고리즘 모음
 
------
+---
 
 ## How to use
 
@@ -13,7 +13,7 @@
 ```
 
 ```json
-// Update package.json
+/* Update package.json */
 {
   ...
   "scripts": {
