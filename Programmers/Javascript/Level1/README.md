@@ -22,6 +22,10 @@
 
 - [신고 결과 받기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0)
 
+### 2022 KAKAO TECH INTERNSHIP
+
+- [성격 유형 검사하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
+
 <br />
 
 -----
