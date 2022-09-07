@@ -56,7 +56,7 @@
 
 ### 월간 코드 챌린지 시즌2
 
-- [약수의 개수와 덧셈](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)
+- [약수의 개수와 덧셈](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)
 
 - [음양 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
 
