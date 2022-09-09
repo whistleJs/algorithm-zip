@@ -80,6 +80,10 @@
 
 - [최소직사각형](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
 
+### 위클리 챌린지
+
+- [부족한 금액 계산하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
+
 ### 정렬
 
 - [K번째수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
