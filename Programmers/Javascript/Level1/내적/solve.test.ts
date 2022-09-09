@@ -5,9 +5,6 @@ import solution from './solve';
 type TestCaseInput = [number[], number[]];
 type TestCaesAnswer = number;
 
-		3
-		-2
-
 const TEST_CASES: TestCase<TestCaseInput, TestCaesAnswer>[] = [
   {
     input: [
