@@ -78,6 +78,8 @@
 
 - [모의고사](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 
+- [최소직사각형](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
+
 ### 정렬
 
 - [K번째수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98)
