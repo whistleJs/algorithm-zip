@@ -102,6 +102,8 @@
 
 - [소수 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)
 
+- [약수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9)
+
 - [자릿수 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)
 
 - [정수 제곱근 판별](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84)
