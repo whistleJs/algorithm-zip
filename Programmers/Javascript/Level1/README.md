@@ -117,3 +117,5 @@
 - [짝수와 홀수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
 
 - [평균 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+
+- [하샤드 수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98)
