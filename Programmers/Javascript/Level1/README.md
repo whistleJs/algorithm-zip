@@ -113,3 +113,5 @@
 - [정수 제곱근 판별](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84)
 
 - [짝수와 홀수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
+
+- [평균 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
