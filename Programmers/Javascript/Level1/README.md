@@ -100,6 +100,8 @@
 
 ### 연습 문제
 
+- [두 정수 사이의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9)
+
 - [문자열 내 p와 y의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
 - [문자열을 정수로 바꾸기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
