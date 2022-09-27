@@ -122,6 +122,8 @@
 
 - [정수 제곱근 판별](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84)
 
+- [제일 작은 수 제거하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+
 - [짝수와 홀수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
 
 - [콜라츠 추측](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1)
