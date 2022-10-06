@@ -52,6 +52,8 @@
 
 ### 월간 코드 챌린지 시즌1
 
+- [3진법 뒤집기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
+
 - [내적](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%82%B4%EC%A0%81)
 
 ### 월간 코드 챌린지 시즌2
