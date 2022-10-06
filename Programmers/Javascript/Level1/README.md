@@ -74,6 +74,10 @@
 
 ## 기타
 
+### 스택/큐
+
+- [같은 숫자는 싫어](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)
+
 ### 완전 탐색
 
 - [모의고사](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
