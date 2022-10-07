@@ -2,6 +2,10 @@
 
 ## 카카오
 
+### 2018 KAKAO BLIND RECRUITMENT
+
+- [[1차] 비밀지도](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
+
 ### 2019 카카오 개발자 겨울 인턴십
 
 - [크레인 인형뽑기 게임](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
