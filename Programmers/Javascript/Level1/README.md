@@ -54,6 +54,8 @@
 
 ## Summer/Winter Coding(~2018)
 
+- [소수 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 - [예산](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%98%88%EC%82%B0)
 
 <br />
