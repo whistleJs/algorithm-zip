@@ -70,6 +70,8 @@
 
 - [내적](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%82%B4%EC%A0%81)
 
+- [두 개 뽑아서 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0)
+
 ### 월간 코드 챌린지 시즌2
 
 - [약수의 개수와 덧셈](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)
