@@ -124,6 +124,8 @@
 
 ### 연습 문제
 
+- [2016년](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/2016%EB%85%84)
+
 - [가운데 글자 가져오기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 
 - [나누어 떨어지는 숫자 배열](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4)
