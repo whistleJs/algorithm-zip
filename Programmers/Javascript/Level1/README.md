@@ -4,6 +4,8 @@
 
 ### 2018 KAKAO BLIND RECRUITMENT
 
+- [[1차] 다트 게임](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)
+
 - [[1차] 비밀지도](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
 
 ### 2019 카카오 개발자 겨울 인턴십
