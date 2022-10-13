@@ -152,6 +152,8 @@
 
 - [수박수박수박수박수박수?](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98?)
 
+- [숫자 짝꿍](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8)
+
 - [시저 암호](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
 
 - [약수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9)
