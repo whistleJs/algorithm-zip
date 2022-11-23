@@ -38,7 +38,7 @@
 
 <br />
 
------
+---
 
 <br />
 
@@ -50,7 +50,7 @@
 
 <br />
 
------
+---
 
 <br />
 
@@ -62,7 +62,7 @@
 
 <br />
 
------
+---
 
 <br />
 
@@ -90,7 +90,7 @@
 
 <br />
 
------
+---
 
 <br />
 
@@ -134,6 +134,8 @@
 
 - [과일 장수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98)
 
+- [기사단원의 무기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0)
+
 - [나누어 떨어지는 숫자 배열](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4)
 
 - [두 정수 사이의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9)
@@ -162,7 +164,7 @@
 
 - [약수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9)
 
-- [옹알이 (2)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%98%B9%EC%95%8C%EC%9D%B4%20(2))
+- [옹알이 (2)](<https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%98%B9%EC%95%8C%EC%9D%B4%20(2)>)
 
 - [이상한 문자 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
