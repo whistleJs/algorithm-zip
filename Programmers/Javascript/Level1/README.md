@@ -154,7 +154,7 @@
 
 - [소수 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0)
 
-- [수박수박수박수박수박수?](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98?)
+- [수박수박수박수박수박수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
 
 - [숫자 짝꿍](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8)
 
