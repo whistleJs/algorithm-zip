@@ -7,3 +7,5 @@
 ## Javascript
 
 - [Level1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1)
+
+- [Level2](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level2)
