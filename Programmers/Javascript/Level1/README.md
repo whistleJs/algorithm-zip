@@ -132,6 +132,8 @@
 
 - [가운데 글자 가져오기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 
+- [가장 가까운 같은 글자](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90)
+
 - [과일 장수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98)
 
 - [기사단원의 무기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0)
