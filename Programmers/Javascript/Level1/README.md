@@ -194,6 +194,8 @@
 
 - [콜라츠 추측](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1)
 
+- [크기가 작은 부분 문자열](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4)
+
 - [평균 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 - [푸드 파이트 대회](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C)
