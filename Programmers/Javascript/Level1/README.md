@@ -150,7 +150,7 @@
 
 - [둘만의 암호](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8)
 
-- [명예의 전당(1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9(1))
+- [명예의 전당(1)](<https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9(1)>)
 
 - [문자열 나누기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0)
 
@@ -163,6 +163,8 @@
 - [문자열 다루기 기본](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8)
 
 - [문자열을 정수로 바꾸기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
+
+- [바탕화면 정리](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%20%EC%A0%95%EB%A6%AC)
 
 - [삼총사](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level1/%EC%82%BC%EC%B4%9D%EC%82%AC)
 
