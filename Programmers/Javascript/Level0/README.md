@@ -12,6 +12,8 @@
 
 - [두 수의 차](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%B0%A8)
 
+- [두 수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9)
+
 - [몫 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AA%AB%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 - [숫자 비교하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
