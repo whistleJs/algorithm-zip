@@ -32,6 +32,8 @@
 
 - [짝수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9)
 
+- [편지](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8E%B8%EC%A7%80)
+
 - [피자 나눠 먹기(3)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%94%BC%EC%9E%90%20%EB%82%98%EB%88%A0%20%EB%A8%B9%EA%B8%B0(3))
 
 ## 코딩 기초 트레이닝
