@@ -24,6 +24,8 @@
 
 - [배열 자르기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0)
 
+- [배열의 유사도](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9C%A0%EC%82%AC%EB%8F%84)
+
 - [배열의 평균값](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%ED%8F%89%EA%B7%A0%EA%B0%92)
 
 - [숫자 비교하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
