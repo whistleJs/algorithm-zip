@@ -30,6 +30,8 @@
 
 - [배열의 평균값](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%ED%8F%89%EA%B7%A0%EA%B0%92)
 
+- [순서쌍의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
 - [숫자 비교하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 
 - [양꼬치](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%96%91%EA%BC%AC%EC%B9%98)
