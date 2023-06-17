@@ -32,6 +32,8 @@
 
 - [양꼬치](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%96%91%EA%BC%AC%EC%B9%98)
 
+- [중복된 숫자 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A4%91%EB%B3%B5%EB%90%9C%20%EC%88%AB%EC%9E%90%20%EA%B0%9C%EC%88%98)
+
 - [짝수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9)
 
 - [최댓값 만들기(1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0(1))
