@@ -58,4 +58,6 @@
 
 - [글자 이어 붙여 문자열 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B8%80%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+- [문자열을 정수로 변환하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0)
+
 - [부분 문자열](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4)
