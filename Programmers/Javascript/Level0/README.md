@@ -18,6 +18,8 @@
 
 - [머쓱이보다 키 큰 사람](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%A8%B8%EC%93%B1%EC%9D%B4%EB%B3%B4%EB%8B%A4%20%ED%82%A4%20%ED%81%B0%20%EC%82%AC%EB%9E%8C)
 
+- [모음 제거](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AA%A8%EC%9D%8C%20%EC%A0%9C%EA%B1%B0)
+
 - [몫 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AA%AB%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 - [문자 반복 출력하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%20%EB%B0%98%EB%B3%B5%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
