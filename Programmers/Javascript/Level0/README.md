@@ -36,6 +36,8 @@
 
 - [숫자 비교하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 
+- [아이스 아메리카노](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8)
+
 - [양꼬치](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%96%91%EA%BC%AC%EC%B9%98)
 
 - [옷가게 할인 받기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%98%B7%EA%B0%80%EA%B2%8C%20%ED%95%A0%EC%9D%B8%20%EB%B0%9B%EA%B8%B0)
