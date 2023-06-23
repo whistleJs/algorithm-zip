@@ -50,6 +50,8 @@
 
 - [옷가게 할인 받기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%98%B7%EA%B0%80%EA%B2%8C%20%ED%95%A0%EC%9D%B8%20%EB%B0%9B%EA%B8%B0)
 
+- [자릿수 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)
+
 - [점의 위치 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%90%EC%9D%98%20%EC%9C%84%EC%B9%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 - [중복된 숫자 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A4%91%EB%B3%B5%EB%90%9C%20%EC%88%AB%EC%9E%90%20%EA%B0%9C%EC%88%98)
