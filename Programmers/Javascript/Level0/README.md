@@ -42,6 +42,8 @@
 
 - [순서쌍의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
+- [숨어있는 숫자의 덧셈 (1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(1))
+
 - [숫자 비교하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 
 - [아이스 아메리카노](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8)
