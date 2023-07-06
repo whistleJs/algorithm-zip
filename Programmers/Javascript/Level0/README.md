@@ -62,6 +62,8 @@
 
 - [짝수 홀수 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%9D%EC%88%98%20%ED%99%80%EC%88%98%20%EA%B0%9C%EC%88%98)
 
+- [짝수는 싫어요](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%9D%EC%88%98%EB%8A%94%20%EC%8B%AB%EC%96%B4%EC%9A%94)
+
 - [짝수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9)
 
 - [최댓값 만들기(1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0(1))
