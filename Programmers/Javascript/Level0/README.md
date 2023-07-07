@@ -86,6 +86,8 @@
 
 - [n의 배수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%EC%9D%98%20%EB%B0%B0%EC%88%98)
 
+- [rny_string](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/rny_string)
+
 - [공배수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%EB%B0%B0%EC%88%98)
 
 - [공백으로 구분하기 1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%201)
