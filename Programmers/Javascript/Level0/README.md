@@ -82,6 +82,8 @@
 
 ## 코딩 기초 트레이닝
 
+- [n 번째 원소까지](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%20%EB%B2%88%EC%A7%B8%20%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80)
+
 - [n의 배수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%EC%9D%98%20%EB%B0%B0%EC%88%98)
 
 - [공배수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%EB%B0%B0%EC%88%98)
