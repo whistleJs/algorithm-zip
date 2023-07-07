@@ -86,6 +86,8 @@
 
 - [공배수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%EB%B0%B0%EC%88%98)
 
+- [공백으로 구분하기 1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%201)
+
 - [글자 이어 붙여 문자열 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B8%80%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 - [문자열 붙여서 출력하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B6%99%EC%97%AC%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
