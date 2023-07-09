@@ -118,6 +118,8 @@
 
 - [카운트 다운](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EB%8B%A4%EC%9A%B4)
 
+- [카운트 업](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EC%97%85)
+
 - [n 번째 원소부터](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%20%EB%B2%88%EC%A7%B8%20%EC%9B%90%EC%86%8C%EB%B6%80%ED%84%B0)
 
 - [홀짝 구분하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%99%80%EC%A7%9D%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
