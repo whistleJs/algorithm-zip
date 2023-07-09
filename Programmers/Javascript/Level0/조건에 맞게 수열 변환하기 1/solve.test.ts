@@ -19,7 +19,7 @@ const TEST_CASES: TestCase<TestCaseInput, TestCaesAnswer>[] = [
   },
 ];
 
-describe("조건에 맞게 수열 변환하기1", () => {
+describe("조건에 맞게 수열 변환하기 1", () => {
   TEST_CASES.forEach(({ answer, description, input }) => {
     test(description, () => {
       expect(solution(input)).toEqual(answer);

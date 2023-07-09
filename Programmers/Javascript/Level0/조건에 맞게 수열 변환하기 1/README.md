@@ -1,4 +1,4 @@
-# 조건에 맞게 수열 변환하기1
+# 조건에 맞게 수열 변환하기 1
 
 > https://school.programmers.co.kr/learn/courses/30/lessons/181882
 
