@@ -118,6 +118,8 @@
 
 - [소문자로 바꾸기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
+- [원소들의 곱과 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%20%EA%B3%B1%EA%B3%BC%20%ED%95%A9)
+
 - [정수 부분](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%95%EC%88%98%20%EB%B6%80%EB%B6%84)
 
 - [조건에 맞게 수열 변환하기 1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%88%98%EC%97%B4%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0%201)
