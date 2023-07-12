@@ -140,4 +140,6 @@
 
 - [카운트 업](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EC%97%85)
 
+- [특정한 문자를 대문자로 바꾸기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8A%B9%EC%A0%95%ED%95%9C%20%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
+
 - [홀짝 구분하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%99%80%EC%A7%9D%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
