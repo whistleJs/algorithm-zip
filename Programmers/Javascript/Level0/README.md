@@ -88,6 +88,8 @@
 
 - [n 번째 원소부터](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%20%EB%B2%88%EC%A7%B8%20%EC%9B%90%EC%86%8C%EB%B6%80%ED%84%B0)
 
+- [n개 간격의 원소들](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%EA%B0%9C%20%EA%B0%84%EA%B2%A9%EC%9D%98%20%EC%9B%90%EC%86%8C%EB%93%A4)
+
 - [n의 배수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%EC%9D%98%20%EB%B0%B0%EC%88%98)
 
 - [rny_string](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/rny_string)
