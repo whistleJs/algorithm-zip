@@ -116,6 +116,8 @@
 
 - [문자 리스트를 문자열로 변환하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0)
 
+- [문자열 바꿔서 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%94%EA%BF%94%EC%84%9C%20%EC%B0%BE%EA%B8%B0)
+
 - [문자열 붙여서 출력하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B6%99%EC%97%AC%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
 
 - [문자열 정수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A0%95%EC%88%98%EC%9D%98%20%ED%95%A9)
