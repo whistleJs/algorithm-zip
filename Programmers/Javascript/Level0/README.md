@@ -2,6 +2,8 @@
 
 ## 코딩테스트 입문
 
+- [가위 바위 보](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4)
+
 - [각도기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%81%EB%8F%84%EA%B8%B0)
 
 - [나머지 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%ED%95%98%EA%B8%B0)
