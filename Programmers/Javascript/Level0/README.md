@@ -44,6 +44,8 @@
 
 - [삼각형의 완성조건 (1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4%20(1))
 
+- [세균 증식](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%84%B8%EA%B7%A0%20%EC%A6%9D%EC%8B%9D)
+
 - [순서쌍의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
 - [숨어있는 숫자의 덧셈 (1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(1))
