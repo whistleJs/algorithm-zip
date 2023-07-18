@@ -116,6 +116,8 @@
 
 - [대문자로 바꾸기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
+- [더 크게 합치기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%8D%94%20%ED%81%AC%EA%B2%8C%20%ED%95%A9%EC%B9%98%EA%B8%B0)
+
 - [뒤에서 5등 위로](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%92%A4%EC%97%90%EC%84%9C%205%EB%93%B1%20%EC%9C%84%EB%A1%9C)
 
 - [뒤에서 5등까지](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%92%A4%EC%97%90%EC%84%9C%205%EB%93%B1%EA%B9%8C%EC%A7%80)
