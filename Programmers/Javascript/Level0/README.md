@@ -12,6 +12,8 @@
 
 - [나이 출력](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%82%98%EC%9D%B4%20%EC%B6%9C%EB%A0%A5)
 
+- [대문자와 소문자](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%8C%80%EB%AC%B8%EC%9E%90%EC%99%80%20%EC%86%8C%EB%AC%B8%EC%9E%90)
+
 - [두 수의 곱](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%EA%B3%B1)
 
 - [두 수의 나눗셈](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88)
