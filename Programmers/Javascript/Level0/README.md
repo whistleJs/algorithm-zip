@@ -150,6 +150,8 @@
 
 - [배열의 길이에 따라 다른 연산하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EA%B8%B8%EC%9D%B4%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EC%97%B0%EC%82%B0%ED%95%98%EA%B8%B0)
 
+- [배열의 원소 삭제하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+
 - [배열의 원소만큼 추가하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%EB%A7%8C%ED%81%BC%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 
 - [부분 문자열](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4)
