@@ -6,6 +6,8 @@
 
 - [각도기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%81%EB%8F%84%EA%B8%B0)
 
+- [개미 군단](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%9C%EB%AF%B8%20%EA%B5%B0%EB%8B%A8)
+
 - [나머지 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 - [나이 출력](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%82%98%EC%9D%B4%20%EC%B6%9C%EB%A0%A5)
