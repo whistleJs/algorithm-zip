@@ -76,6 +76,8 @@
 
 - [제곱수 판별하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%9C%EA%B3%B1%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)
 
+- [주사위의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A3%BC%EC%82%AC%EC%9C%84%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
 - [중복된 숫자 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A4%91%EB%B3%B5%EB%90%9C%20%EC%88%AB%EC%9E%90%20%EA%B0%9C%EC%88%98)
 
 - [중앙값 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)
