@@ -88,6 +88,8 @@
 
 - [최댓값 만들기(1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0(1))
 
+- [최댓값 만들기 (2)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(2))
+
 - [특정 문자 제거하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
 - [편지](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8E%B8%EC%A7%80)
