@@ -6,6 +6,8 @@
 
 - [가위 바위 보](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4)
 
+- [가장 큰 수 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0)
+
 - [각도기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%81%EB%8F%84%EA%B8%B0)
 
 - [개미 군단](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%9C%EB%AF%B8%20%EA%B5%B0%EB%8B%A8)
