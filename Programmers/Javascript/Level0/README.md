@@ -104,6 +104,8 @@
 
 ## 코딩 기초 트레이닝
 
+- [0 떼기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/0%20%EB%96%BC%EA%B8%B0)
+
 - [5명씩](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/5%EB%AA%85%EC%94%A9)
 
 - [A 강조하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/A%20%EA%B0%95%EC%A1%B0%ED%95%98%EA%B8%B0)
