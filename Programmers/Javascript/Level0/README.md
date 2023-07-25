@@ -214,6 +214,8 @@
 
 - [접두사인지 확인하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%91%EB%91%90%EC%82%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
+- [접미사 배열](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4)
+
 - [접미사인지 확인하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%91%EB%AF%B8%EC%82%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
 - [정수 부분](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%95%EC%88%98%20%EB%B6%80%EB%B6%84)
