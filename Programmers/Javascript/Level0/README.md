@@ -138,6 +138,8 @@
 
 - [x 사이의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/x%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
+- [가까운 1 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%80%EA%B9%8C%EC%9A%B4%201%20%EC%B0%BE%EA%B8%B0)
+
 - [공배수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%EB%B0%B0%EC%88%98)
 
 - [공백으로 구분하기 1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%201)
