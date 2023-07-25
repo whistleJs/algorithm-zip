@@ -108,6 +108,8 @@
 
 - [피자 나눠 먹기(1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%94%BC%EC%9E%90%20%EB%82%98%EB%88%A0%20%EB%A8%B9%EA%B8%B0%20(1))
 
+- [피자 나눠 먹기 (2)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%94%BC%EC%9E%90%20%EB%82%98%EB%88%A0%20%EB%A8%B9%EA%B8%B0%20(2))
+
 - [피자 나눠 먹기(3)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%94%BC%EC%9E%90%20%EB%82%98%EB%88%A0%20%EB%A8%B9%EA%B8%B0(3))
 
 ## 코딩 기초 트레이닝
