@@ -70,6 +70,8 @@
 
 - [암호 해독](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%95%94%ED%98%B8%20%ED%95%B4%EB%8F%85)
 
+- [약수 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+
 - [양꼬치](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%96%91%EA%BC%AC%EC%B9%98)
 
 - [옷가게 할인 받기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%98%B7%EA%B0%80%EA%B2%8C%20%ED%95%A0%EC%9D%B8%20%EB%B0%9B%EA%B8%B0)
