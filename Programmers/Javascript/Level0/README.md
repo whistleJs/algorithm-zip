@@ -236,6 +236,8 @@
 
 - [주사위 게임 1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%201)
 
+- [주사위 게임 2](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%202)
+
 - [첫 번째로 나오는 음수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%EB%A1%9C%20%EB%82%98%EC%98%A4%EB%8A%94%20%EC%9D%8C%EC%88%98)
 
 - [카운트 다운](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EB%8B%A4%EC%9A%B4)
