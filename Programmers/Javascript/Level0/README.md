@@ -70,6 +70,8 @@
 
 - [숫자 비교하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 
+- [숫자 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EC%B0%BE%EA%B8%B0)
+
 - [아이스 아메리카노](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8)
 
 - [암호 해독](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%95%94%ED%98%B8%20%ED%95%B4%EB%8F%85)
