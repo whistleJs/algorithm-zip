@@ -126,6 +126,8 @@
 
 - [5명씩](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/5%EB%AA%85%EC%94%A9)
 
+- [9로 나눈 나머지](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/9%EB%A1%9C%20%EB%82%98%EB%88%88%20%EB%82%98%EB%A8%B8%EC%A7%80)
+
 - [A 강조하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/A%20%EA%B0%95%EC%A1%B0%ED%95%98%EA%B8%B0)
 
 - [ad 제거하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/ad%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
