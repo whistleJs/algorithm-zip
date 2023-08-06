@@ -2,6 +2,8 @@
 
 ## 코딩테스트 입문
 
+- [2차원으로 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 - [369게임](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/369%EA%B2%8C%EC%9E%84)
 
 - [n의 배수 고르기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%EC%9D%98%20%EB%B0%B0%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
