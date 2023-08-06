@@ -30,6 +30,8 @@
 
 - [머쓱이보다 키 큰 사람](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%A8%B8%EC%93%B1%EC%9D%B4%EB%B3%B4%EB%8B%A4%20%ED%82%A4%20%ED%81%B0%20%EC%82%AC%EB%9E%8C)
 
+- [모스부호 (1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AA%A8%EC%8A%A4%EB%B6%80%ED%98%B8%20(1))
+
 - [모음 제거](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AA%A8%EC%9D%8C%20%EC%A0%9C%EA%B1%B0)
 
 - [몫 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AA%AB%20%EA%B5%AC%ED%95%98%EA%B8%B0)
