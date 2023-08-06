@@ -236,6 +236,8 @@
 
 - [수 조작하기 2](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%98%20%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0%202)
 
+- [수열과 구간 쿼리 1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%98%EC%97%B4%EA%B3%BC%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC%201)
+
 - [순서 바꾸기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%9C%EC%84%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 - [원소들의 곱과 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%20%EA%B3%B1%EA%B3%BC%20%ED%95%A9)
