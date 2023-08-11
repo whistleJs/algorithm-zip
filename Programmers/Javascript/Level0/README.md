@@ -120,6 +120,8 @@
 
 - [특정 문자 제거하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
+- [팩토리얼](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC)
+
 - [편지](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8E%B8%EC%A7%80)
 
 - [피자 나눠 먹기 (1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%94%BC%EC%9E%90%20%EB%82%98%EB%88%A0%20%EB%A8%B9%EA%B8%B0%20(1))
