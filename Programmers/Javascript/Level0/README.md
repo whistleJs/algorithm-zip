@@ -6,6 +6,8 @@
 
 - [369게임](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/369%EA%B2%8C%EC%9E%84)
 
+- [A로 B 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/A%EB%A1%9C%20B%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 - [n의 배수 고르기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%EC%9D%98%20%EB%B0%B0%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 
 - [가위 바위 보](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B0%80%EC%9C%84%20%EB%B0%94%EC%9C%84%20%EB%B3%B4)
