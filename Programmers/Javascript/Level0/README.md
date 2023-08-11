@@ -256,6 +256,8 @@
 
 - [이어 붙인 수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%9D%B8%20%EC%88%98)
 
+- [이차원 배열 대각선 순회하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%20%EB%8C%80%EA%B0%81%EC%84%A0%20%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0)
+
 - [접두사인지 확인하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%91%EB%91%90%EC%82%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
 - [접미사 배열](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4)
