@@ -178,6 +178,8 @@
 
 - [글자 이어 붙여 문자열 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B8%80%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+- [글자 지우기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B8%80%EC%9E%90%20%EC%A7%80%EC%9A%B0%EA%B8%B0)
+
 - [길이에 따른 연산](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B8%B8%EC%9D%B4%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%97%B0%EC%82%B0)
 
 - [꼬리 문자열](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%BC%AC%EB%A6%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4)
