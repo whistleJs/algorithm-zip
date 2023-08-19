@@ -242,6 +242,8 @@
 
 - [부분 문자열인지 확인하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
+- [세로 읽기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%84%B8%EB%A1%9C%20%EC%9D%BD%EA%B8%B0)
+
 - [소문자로 바꾸기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 - [수 조작하기 1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%98%20%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0%201)
