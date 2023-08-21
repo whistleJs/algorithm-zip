@@ -80,6 +80,8 @@
 
 - [숨어있는 숫자의 덧셈 (1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(1))
 
+- [숨어있는 숫자의 덧셈 (2)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(2))
+
 - [숫자 비교하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 
 - [숫자 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%AB%EC%9E%90%20%EC%B0%BE%EA%B8%B0)
