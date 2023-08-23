@@ -140,6 +140,8 @@
 
 - [피자 나눠 먹기 (3)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%94%BC%EC%9E%90%20%EB%82%98%EB%88%A0%20%EB%A8%B9%EA%B8%B0%20(3))
 
+- [한 번만 등장한 문자](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%95%9C%20%EB%B2%88%EB%A7%8C%20%EB%93%B1%EC%9E%A5%ED%95%9C%20%EB%AC%B8%EC%9E%90)
+
 - [합성수 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%95%A9%EC%84%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0)
 
 ## 코딩 기초 트레이닝
