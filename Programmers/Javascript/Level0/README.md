@@ -238,6 +238,8 @@
 
 - [문자열의 앞의 n글자](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%95%9E%EC%9D%98%20n%EA%B8%80%EC%9E%90')
 
+- [문자열이 몇 번 등장하는지 세기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4%20%EB%AA%87%20%EB%B2%88%20%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%EC%A7%80%20%EC%84%B8%EA%B8%B0)
+
 - [배열 만들기 1](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%201)
 
 - [배열 만들기 3](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%203)
