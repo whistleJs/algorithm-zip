@@ -152,6 +152,8 @@
 
 - [1로 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+- [2의 영역](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/2%EC%9D%98%20%EC%98%81%EC%97%AD)
+
 - [5명씩](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/5%EB%AA%85%EC%94%A9)
 
 - [9로 나눈 나머지](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/9%EB%A1%9C%20%EB%82%98%EB%88%88%20%EB%82%98%EB%A8%B8%EC%A7%80)
