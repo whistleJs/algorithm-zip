@@ -100,6 +100,8 @@
 
 - [외계행성의 나이](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%20%EB%82%98%EC%9D%B4)
 
+- [이진수 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9D%B4%EC%A7%84%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)
+
 - [인덱스 바꾸기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EB%B0%94%EA%BE%B8%EA%B8%B0)
 
 - [자릿수 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)
