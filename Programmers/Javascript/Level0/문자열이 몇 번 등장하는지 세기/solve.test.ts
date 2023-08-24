@@ -8,7 +8,7 @@ type TestCaesAnswer = number;
 const TEST_CASES: TestCase<TestCaseInput, TestCaesAnswer>[] = [
   {
     input: ['banana', 'ana'],
-    answer: 3,
+    answer: 2,
     description: `
       [입출력 예 #1]\n\n
       
