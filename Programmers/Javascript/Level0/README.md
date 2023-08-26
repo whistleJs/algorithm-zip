@@ -230,6 +230,8 @@
 
 - [문자열 뒤집기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0)
 
+- [문자열 묶기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%AC%B6%EA%B8%B0)
+
 - [문자열 바꿔서 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%94%EA%BF%94%EC%84%9C%20%EC%B0%BE%EA%B8%B0)
 
 - [문자열 반복해서 출력하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
