@@ -132,6 +132,8 @@
 
 - [최댓값 만들기 (2)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(2))
 
+- [컨트롤 제트](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%BB%A8%ED%8A%B8%EB%A1%A4%20%EC%A0%9C%ED%8A%B8)
+
 - [특정 문자 제거하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
 - [팩토리얼](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC)
