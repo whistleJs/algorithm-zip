@@ -4,6 +4,8 @@
 
 - [2차원으로 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+- [7의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/7%EC%9D%98%20%EA%B0%9C%EC%88%98)
+
 - [369게임](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/369%EA%B2%8C%EC%9E%84)
 
 - [A로 B 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/A%EB%A1%9C%20B%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
