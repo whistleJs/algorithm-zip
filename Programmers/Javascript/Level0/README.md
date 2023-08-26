@@ -80,6 +80,8 @@
 
 - [세균 증식](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%84%B8%EA%B7%A0%20%EC%A6%9D%EC%8B%9D)
 
+- [소인수분해](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)
+
 - [순서쌍의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%20%EA%B0%9C%EC%88%98)
 
 - [숨어있는 숫자의 덧셈 (1)](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(1))
