@@ -184,6 +184,8 @@
 
 - [n의 배수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/n%EC%9D%98%20%EB%B0%B0%EC%88%98)
 
+- [qr code](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/qr%20code)
+
 - [rny_string](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/rny_string)
 
 - [x 사이의 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/x%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)
