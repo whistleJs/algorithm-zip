@@ -228,6 +228,8 @@
 
 - [두 수의 연산값 비교하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%97%B0%EC%82%B0%EA%B0%92%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 
+- [두 수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9_)
+
 - [뒤에서 5등 위로](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%92%A4%EC%97%90%EC%84%9C%205%EB%93%B1%20%EC%9C%84%EB%A1%9C)
 
 - [뒤에서 5등까지](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%92%A4%EC%97%90%EC%84%9C%205%EB%93%B1%EA%B9%8C%EC%A7%80)
@@ -242,7 +244,7 @@
 
 - [문자 리스트를 문자열로 변환하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0)
 
-- [문자열 뒤집기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0)
+- [문자열 뒤집기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0_)
 
 - [문자열 묶기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%AC%B6%EA%B8%B0)
 
