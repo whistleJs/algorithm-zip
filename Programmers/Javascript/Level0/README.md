@@ -234,6 +234,8 @@
 
 - [마지막 두 원소](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%A7%88%EC%A7%80%EB%A7%89%20%EB%91%90%20%EC%9B%90%EC%86%8C)
 
+- [문자 개수 세기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0)
+
 - [문자 리스트를 문자열로 변환하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0)
 
 - [문자열 뒤집기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0)
