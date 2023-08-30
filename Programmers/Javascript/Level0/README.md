@@ -104,6 +104,8 @@
 
 - [양꼬치](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%96%91%EA%BC%AC%EC%B9%98)
 
+- [영어가 싫어요](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%98%81%EC%96%B4%EA%B0%80%20%EC%8B%AB%EC%96%B4%EC%9A%94)
+
 - [옷가게 할인 받기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%98%B7%EA%B0%80%EA%B2%8C%20%ED%95%A0%EC%9D%B8%20%EB%B0%9B%EA%B8%B0)
 
 - [외계행성의 나이](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%20%EB%82%98%EC%9D%B4)
