@@ -26,6 +26,8 @@
 
 - [공 던지기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%20%EB%8D%98%EC%A7%80%EA%B8%B0)
 
+- [구슬을 나누는 경우의 수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B5%AC%EC%8A%AC%EC%9D%84%20%EB%82%98%EB%88%84%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EC%9D%98%20%EC%88%98)
+
 - [나머지 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 - [나이 출력](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%82%98%EC%9D%B4%20%EC%B6%9C%EB%A0%A5)
