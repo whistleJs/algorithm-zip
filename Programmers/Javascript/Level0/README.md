@@ -260,6 +260,8 @@
 
 - [문자열 섞기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%84%9E%EA%B8%B0)
 
+- [문자열 여러 번 뒤집기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%AC%EB%9F%AC%20%EB%B2%88%20%EB%92%A4%EC%A7%91%EA%B8%B0)
+
 - [문자열 잘라서 정렬하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%98%EB%9D%BC%EC%84%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 
 - [문자열 정수의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A0%95%EC%88%98%EC%9D%98%20%ED%95%A9)
