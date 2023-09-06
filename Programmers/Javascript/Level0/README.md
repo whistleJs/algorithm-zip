@@ -342,6 +342,8 @@
 
 - [접미사인지 확인하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%91%EB%AF%B8%EC%82%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 
+- [정사각형으로 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 - [정수 부분](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%95%EC%88%98%20%EB%B6%80%EB%B6%84)
 
 - [정수 찾기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A0%95%EC%88%98%20%EC%B0%BE%EA%B8%B0)
