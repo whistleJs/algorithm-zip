@@ -182,6 +182,8 @@
 
 - [ad 제거하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/ad%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
+- [a와 b 출력하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/a%EC%99%80%20b%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+
 - [flag에 따라 다른 값 반환하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/flag%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0)
 
 - [l로 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/l%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
