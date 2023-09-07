@@ -112,6 +112,8 @@
 
 - [옷가게 할인 받기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%98%B7%EA%B0%80%EA%B2%8C%20%ED%95%A0%EC%9D%B8%20%EB%B0%9B%EA%B8%B0)
 
+- [외계어 사전](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%99%B8%EA%B3%84%EC%96%B4%20%EC%82%AC%EC%A0%84)
+
 - [외계행성의 나이](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%20%EB%82%98%EC%9D%B4)
 
 - [이진수 더하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%9D%B4%EC%A7%84%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)
