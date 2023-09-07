@@ -218,6 +218,8 @@
 
 - [공백으로 구분하기 2](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%202)
 
+- [그림 확대](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B7%B8%EB%A6%BC%20%ED%99%95%EB%8C%80)
+
 - [글자 이어 붙여 문자열 만들기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B8%80%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 - [글자 지우기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EA%B8%80%EC%9E%90%20%EC%A7%80%EC%9A%B0%EA%B8%B0)
