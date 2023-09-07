@@ -138,6 +138,8 @@
 
 - [직각삼각형 출력하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
 
+- [직사각형 넓이 구하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+
 - [진료순서 정하기](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%84%EB%A3%8C%EC%88%9C%EC%84%9C%20%EC%A0%95%ED%95%98%EA%B8%B0)
 
 - [짝수 홀수 개수](https://github.com/whistleJs/algorithm-zip/tree/main/Programmers/Javascript/Level0/%EC%A7%9D%EC%88%98%20%ED%99%80%EC%88%98%20%EA%B0%9C%EC%88%98)
