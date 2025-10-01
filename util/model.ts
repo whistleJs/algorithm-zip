@@ -1,9 +1,12 @@
 type TestCase<T, G> = {
-  input: T
-  answer: G
-  description: string
-}
+  input: T;
+  answer: G;
+  description: string;
+};
 
-export {
-  TestCase
-}
+type BaekJoonTestCase<T> = {
+  file: string;
+  answer: T;
+};
+
+export { TestCase, BaekJoonTestCase };

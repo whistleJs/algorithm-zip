@@ -2,8 +2,11 @@
   "compilerOptions": {
     "baseUrl": ".",
     "target": "ESNext",
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "types": ["node", "jest"],
     "paths": {
-      "@util/*": [ "./util/*" ]
+      "@util/*": ["./util/*"]
     }
   }
 }
