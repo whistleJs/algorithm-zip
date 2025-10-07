@@ -6,4 +6,6 @@
 
 ## Javascript
 
+- [Silver3](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver3)
+
 - [Silver4](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4)
