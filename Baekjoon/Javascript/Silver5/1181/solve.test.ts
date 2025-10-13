@@ -1,0 +1,36 @@
+import * as path from "path";
+
+import { BaekJoonTestCase } from "@util/model";
+
+import solution from "./solve";
+
+type TestCaseAnswer = string[];
+
+const PROBLEM_NUMBER = 1181;
+
+const TEST_CASES: BaekJoonTestCase<TestCaseAnswer>[] = [
+  {
+    file: "case1.txt",
+    answer: [
+      "i",
+      "im",
+      "it",
+      "no",
+      "but",
+      "more",
+      "wait",
+      "wont",
+      "yours",
+      "cannot",
+      "hesitate",
+    ],
+  },
+];
+
+describe(`${PROBLEM_NUMBER}번`, () => {
+  TEST_CASES.forEach(({ answer, file }) => {
+    test(`${PROBLEM_NUMBER} ${file}`, () => {
+      expect(solution(path.join(__dirname, "examples", file))).toEqual(answer);
+    });
+  });
+});
