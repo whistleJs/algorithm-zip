@@ -1,5 +1,13 @@
 # 문제 풀이 모음
 
+### 구현
+
+- [11866. 요세푸스 문제 0](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/11866)
+
+<br />
+
+---
+
 ### 그리디 알고리즘
 
 - [2217. 로프](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/2217)
@@ -48,8 +56,28 @@
 
 ---
 
+### 자료 구조
+
+- [11866. 요세푸스 문제 0](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/11866)
+
+<br />
+
+---
+
 ### 정렬
 
 - [2217. 로프](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/2217)
 
 - [11399. ATM](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/11399)
+
+<br />
+
+---
+
+### 큐
+
+- [11866. 요세푸스 문제 0](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/11866)
+
+<br />
+
+---
