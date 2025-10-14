@@ -6,7 +6,7 @@ import solution from "./solve";
 
 type TestCaseAnswer = number;
 
-const PROBLEM_NUMBER = 1932;
+const PROBLEM_NUMBER = path.basename(__dirname);
 
 const TEST_CASES: BaekJoonTestCase<TestCaseAnswer>[] = [
   {
