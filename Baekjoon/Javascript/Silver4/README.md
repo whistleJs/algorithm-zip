@@ -32,6 +32,8 @@
 
 ### 두 포인터
 
+- [1940. 주몽](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/1940)
+
 - [2003. 수들의 합 2](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/2003)
 
 <br />
@@ -65,6 +67,8 @@
 ---
 
 ### 정렬
+
+- [1940. 주몽](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/1940)
 
 - [2217. 로프](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/2217)
 
