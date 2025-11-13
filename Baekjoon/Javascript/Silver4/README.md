@@ -2,6 +2,8 @@
 
 ### 구현
 
+- [10866. 덱](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/10866)
+
 - [11866. 요세푸스 문제 0](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/11866)
 
 <br />
@@ -25,6 +27,14 @@
 - [2003. 수들의 합 2](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/2003)
 
 - [13900. 순서쌍의 곱의 합](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/13900)
+
+<br />
+
+---
+
+### 덱
+
+- [10866. 덱](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/10866)
 
 <br />
 
@@ -59,6 +69,8 @@
 ---
 
 ### 자료 구조
+
+- [10866. 덱](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/10866)
 
 - [11866. 요세푸스 문제 0](https://github.com/whistleJs/algorithm-zip/tree/main/Baekjoon/Javascript/Silver4/11866)
 
